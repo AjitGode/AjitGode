@@ -26,4 +26,6 @@ hobbies: [
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=AjitGode&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=AjitGode&theme=radical&no-frame=false&no-bg=true&margin-w=4"> 
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=AjitGode&color=lightgrey&style=plastic&base=3218">
