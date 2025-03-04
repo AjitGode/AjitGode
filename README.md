@@ -22,7 +22,7 @@ hobbies: [
 <h2>Github Stats</h2>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjitGode&theme=dark&border=false&include_all_commits=true&count_private=true&layout=compact"> &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=AjitGode&theme=dark">
- <img src="[https://github-readme-streak-stats.herokuapp.com/?user=AjitGode&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=AjitGode&theme=dark&hide_border=false)">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjitGode&theme=dark&hide_border=false">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 <h2>🏆 GitHub Trophies</h2>
